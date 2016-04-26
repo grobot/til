@@ -7,3 +7,5 @@ function — functions that operate on functions)
 They allow you to "decorate" your Class with additional functionality,
 but without all of the complexity that comes with the use of classical
 inheritances.
+
+[This](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841) is a good writeup of them
